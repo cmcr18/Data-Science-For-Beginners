@@ -14,9 +14,9 @@ Follow the prompts in this assignment to identify and classify the data with one
 
 Structure Type:strutured
 
-Value Type: quantitative
+Value Type: quantitative 
 
-Source Type: secondary
+Source Type: secondary 
 
 ---
 
